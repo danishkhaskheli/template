@@ -1,0 +1,217 @@
+a.navbar-brand {
+    font-size: 28px;
+    color: #673AB7;
+}
+i.fa-solid.fa-bars {
+    font-size: 28px;
+}
+.listheading {
+    color: #673AB7;
+    
+}
+.bgimg {
+    position: relative;
+   
+}
+
+.bghead1 {
+    display: flex;
+}
+input[type=text], select {
+    width: 81%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+.barman {
+    padding-top: 12px;
+    position: absolute;
+    top: 66px;
+    display: flex;
+    column-gap: 58px;
+}
+.headtext2 {
+    display: flex;
+    column-gap: 49px;
+    text-align: center;
+    position: absolute;
+    top: 98%;
+}
+.lcd-img {
+    padding-left: 33px;
+    padding-top: 10%;
+    position: relative;
+}
+.bgcolor1 {
+    background-color: #673AB7;
+    height: 645px;
+}
+.headlcd2 {
+    display: flex;
+}
+.h1text1 {
+    color: white;
+    padding-left: 209px;
+    padding-top: 15%;
+}
+button.btn {
+    background-color: yellow;
+}
+.h1-text3 {
+    color: #673AB7;
+    padding-top: 16px;
+    text-align: center;
+}
+i.fa-solid.fa-database {
+    font-size: 95px;
+    color: #673AB7;
+    padding-left: 58px;
+}
+i.fa-solid.fa-globe {
+    font-size: 95px;
+    color: #673AB7;
+    padding-left: 58px;
+}
+i.fa-solid.fa-layer-group {
+    font-size: 95px;
+    color: #673AB7;
+    padding-left: 58px;
+}
+.head-icon2 {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 24px;
+}
+p.paralist3 {
+    width: 204px;
+}
+.btn3 {
+    text-align: center;
+    padding-top: 41px;
+    margin-bottom: 27px;
+}
+.div2 {
+    width: 397px;
+    height: 461px;
+    border: 1px solid #090909;
+    border-radius: 15px;
+}
+.paralist4 {
+    background-color: white;
+    font-size: 27px;
+    border-radius: 15px;
+    text-align: center;
+    padding-top: 17px;
+}
+.headborder1 {
+    display: flex;
+    justify-content: center;
+}
+.bglistimg3 {
+    text-align: center;
+    padding-top: 57px;
+}
+img.round {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+   
+}
+.bgcolor2 {
+    background-color: #673AB7;
+    height: 709px;
+}
+.btn4 {
+    padding-bottom: 19px;
+}
+i.fa-solid.fa-check {
+    font-size: 49px;
+    color: white;
+}
+.Lcd-icon {
+    position: absolute;
+    top: 52%;
+    right: 51%;
+}
+.bgmanhead4 {
+    display: flex;
+    justify-content: space-around;
+}
+.parahead6 {
+    display: flex;
+    justify-content: space-around;
+}
+.paratext {
+    width: 157px;
+}
+h1.color-white {
+    color: white;
+}
+p.color-white {
+    color: white;
+}
+.texthd {
+    padding-top: 30px;
+}
+.borderhd1 {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 35px;
+}
+.borderhd2 {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 61px;
+}
+.text-center {
+    padding-top: 26px;
+}
+.heading10 {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 28px;
+}
+.para10 {
+    width: 30%;
+    text-align: center;
+    padding-top: 20px;
+}
+.imghaed10 {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 47px;
+}
+.texthead11 {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 9px;
+}
+.texthead12 {
+    display: flex;
+    column-gap: 26%;
+    padding-left: 17%;
+}
+i.fa-brands.fa-facebook-f {
+    font-size: 25px;
+    
+}
+i.fa-brands.fa-instagram {
+    font-size: 25px;
+    
+}
+i.fa-brands.fa-linkedin {
+    font-size: 25px;
+    
+}
+.iconhead3 {
+    display: flex;
+    padding-top: 8px;
+    column-gap: 32%;
+    padding-left: 12%;
+}
+.h1head3 {
+    width: 27%;
+}
